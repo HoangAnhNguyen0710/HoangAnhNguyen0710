@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangAnhNguyen0710)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangAnhNguyen0710&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangAnhNguyen0710)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on Ha Noi University of Science and Technology
 - 🌱 I’m currently learning ReactJs, NodeJs, PHP
 - 👯 I’m looking to collaborate on ...
