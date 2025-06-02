@@ -2,8 +2,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangAnhNguyen0710&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-- 🔭 I’m currently working at **Ha Noi University of Science and Technology**  
-- 🌱 I’m currently learning **ReactJs, NodeJs, PHP**  
+🎓 I graduated from Hanoi University
+🌏 Currently working in Tokyo
+🌱 I'm learning about AWS, Cloud architecture, and everything in between
+💻 Previously, I was into NodeJs, PHP, but now focusing on cloud tech
 
 ### 🛠 Tech Stack  
 <p align="left">
